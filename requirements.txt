@@ -1,0 +1,6 @@
+discord
+colorama
+os
+Fore
+discord.ext
+commands
